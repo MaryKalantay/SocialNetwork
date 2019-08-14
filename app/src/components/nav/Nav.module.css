@@ -1,0 +1,9 @@
+/*nav*/
+nav {
+  display: flex;
+}
+
+nav div a {
+  color: white;
+  padding: 0 1rem;
+}

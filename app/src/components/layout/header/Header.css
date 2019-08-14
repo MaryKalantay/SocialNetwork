@@ -1,0 +1,31 @@
+/*header*/
+.header {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 20vh;
+}
+
+.holder {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info {
+  color: white;
+  padding: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contacts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo a {
+  color: white;
+}
