@@ -1,6 +1,6 @@
 import React from 'react';
 import {Container} from 'react-grid-system';
-import Nav from '../../nav/Nav';
+import Nav from '../../Nav/Nav';
 import styles from './Header.css';
 // import logo from './images/logo.svg';
 

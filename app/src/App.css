@@ -46,7 +46,7 @@ ul, ol {
 }
 
 input, textarea {
-  border: none;
+  border: 1px solid #ddd;
   background: white;
 }
 
