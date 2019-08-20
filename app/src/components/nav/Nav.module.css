@@ -1,9 +1,15 @@
+
 /*nav*/
-nav {
+.nav {
   display: flex;
 }
 
-nav div a {
+.item a {
   color: white;
   padding: 0 1rem;
 }
+
+.item a.active_link {
+ color: coral
+}
+

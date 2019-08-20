@@ -3,7 +3,8 @@
   position: absolute;
   z-index: 1;
   width: 100%;
-  height: 20vh;
+  height: 140px;
+  background:rgba(10,62,175,1);
 }
 
 .holder {

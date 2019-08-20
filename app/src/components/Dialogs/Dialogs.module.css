@@ -1,1 +1,9 @@
 /*dialogs*/
+.users li {
+  list-style: none;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}

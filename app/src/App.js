@@ -4,20 +4,18 @@ import {Container, Row, Col} from 'react-grid-system';
 
 
 import Header from './components/layout/header/Header';
-import HomeSlider from './components/HomeSlider/HomeSlider';
+// import HomeSlider from './components/HomeSlider/HomeSlider';
 import Footer from './components/layout/footer/Footer';
 import Profile from './components/Profile/Profile';
 import Dialogs from './components/Dialogs/Dialogs';
 import './App.css';
-
-
 
 function App() {
   return (
     <BrowserRouter>
     <div className="wrapper">
       <Header />
-      <HomeSlider />
+      {/* <HomeSlider /> */}
       <div className="content">
         <Container>
           <Row>

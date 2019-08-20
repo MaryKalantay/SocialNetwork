@@ -77,6 +77,10 @@ svg path:hover {
   font-style: normal;
 } */
 
+.content {
+  padding-top: 26vh;
+}
+
 .social {
   display: flex; 
 }
